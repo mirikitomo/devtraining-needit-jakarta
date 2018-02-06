@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Risk Identified - If changed" section_id="ba615d3a4f4013003eb2fa218110c79e" sys_domain="global" table="x_58872_needit_change_request_form" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_risk_rescription2</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>33619d3a4f4013003eb2fa218110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_severity2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>b3619d3a4f4013003eb2fa218110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_mitigation_plan2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>37619d3a4f4013003eb2fa218110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_accepted</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>b7619d3a4f4013003eb2fa218110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>3b619d3a4f4013003eb2fa218110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_risk_description3</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>bb619d3a4f4013003eb2fa218110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_severity3</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>3f619d3a4f4013003eb2fa218110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_mitigation_plan3</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>bf619d3a4f4013003eb2fa218110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_accepted</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:04</sys_created_on>
+            <sys_id>33619d3a4f4013003eb2fa218110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Identified - If changed" display_value="Risk Identified - If changed" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">ba615d3a4f4013003eb2fa218110c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Risk Identified - If changed</caption>
+            <header>false</header>
+            <name>x_58872_needit_change_request_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 17:24:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba615d3a4f4013003eb2fa218110c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Risk Identified - If changed</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_ba615d3a4f4013003eb2fa218110c79e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 17:24:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
