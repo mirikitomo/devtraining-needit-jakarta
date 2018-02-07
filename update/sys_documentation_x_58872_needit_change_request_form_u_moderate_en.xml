@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_moderate" label="Moderate/No interruption, but system behavioral/looks changes" language="en" table="x_58872_needit_change_request_form">
+    <sys_documentation element="u_moderate" label="Moderate/no interruption, but system behavioral/looks changes" language="en" table="x_58872_needit_change_request_form">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_moderate</element>
             <help/>
             <hint/>
-            <label>Moderate/No interruption, but system behavioral/looks changes</label>
+            <label>Moderate/no interruption, but system behavioral/looks changes</label>
             <language>en</language>
             <name>x_58872_needit_change_request_form</name>
-            <plural>Moderate/No interruption, but system behavioral/looks changes</plural>
+            <plural>Moderate/no interruption, but system behavioral/looks changes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-02-06 17:06:21</sys_created_on>
             <sys_id>586d81f64f4013003eb2fa218110c752</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Moderate/No interruption, but system behavioral/looks changes</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Moderate/no interruption, but system behavioral/looks changes</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_documentation_x_58872_needit_change_request_form_u_moderate_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:06:21</sys_updated_on>
+            <sys_updated_on>2018-02-07 20:22:34</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

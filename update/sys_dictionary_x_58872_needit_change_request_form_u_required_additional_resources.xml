@@ -10,7 +10,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Required Additional Resources</column_label>
+        <column_label>Required additional resources</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -48,14 +48,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-06 17:29:57</sys_created_on>
         <sys_id>1e3c3e8b4fc813003eb2fa218110c75c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Required Additional Resources</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Required additional resources</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_needit_change_request_form_u_required_additional_resources</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-02-07 19:49:16</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 20:22:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
