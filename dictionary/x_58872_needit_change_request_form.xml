@@ -11,9 +11,9 @@
         <element label="New True/False" max_length="40" name="u_boolean_42" type="boolean"/>
         <element label="New True/False" max_length="40" name="u_boolean_43" type="boolean"/>
         <element label="New True/False" max_length="40" name="u_boolean_46" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" label="Brief Description of Request/Change" mandatory="true" max_length="160" name="u_brief_description" type="string"/>
-        <element label="Contact email" mandatory="true" max_length="32" name="u_contact_email" reference="sys_user" type="reference"/>
-        <element label="Contact Phone" mandatory="true" max_length="32" name="u_contact_phone" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Brief Description of Request/Change" max_length="160" name="u_brief_description" type="string"/>
+        <element label="Contact email" max_length="40" name="u_contact_email" reference="sys_user" type="reference"/>
+        <element label="Contact phone" max_length="40" name="u_contact_phone" reference="sys_user" type="reference"/>
         <element label="New Data Structure" max_length="800" name="u_data_structure_20" type="data_structure"/>
         <element label="Date" max_length="40" name="u_date" type="glide_date"/>
         <element label="Date" max_length="40" name="u_date1" type="glide_date"/>
@@ -21,6 +21,7 @@
         <element label="Defect/Fix" max_length="40" name="u_defect_fix" type="boolean"/>
         <element label="Details/Additional Notes:" max_length="4000" name="u_details_additional_notes" type="journal"/>
         <element label="Duration" max_length="40" name="u_duration" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="u_email" type="string"/>
         <element dependent="u_approver1" dependent_on_field="u_approver1" label="Email" max_length="32" name="u_email1" reference="user_criteria" type="reference" use_dependent_field="true"/>
         <element label="Enhancement" max_length="40" name="u_enhancement" type="boolean"/>
         <element dependent="u_boolean_17" dependent_on_field="u_boolean_17" label="New Field Name" max_length="80" name="u_field_name_19" type="field_name" use_dependent_field="true"/>
@@ -29,7 +30,7 @@
         <element label="Hours" max_length="40" name="u_hours" type="glide_time"/>
         <element label="New Icon" max_length="100" name="u_icon_16" type="icon"/>
         <element label="Impacted environment (Check all those apply):" max_length="800" name="u_impacted_environment" read_only="true" type="data_structure"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="servicenow" label="Impacted system" mandatory="true" max_length="40" name="u_impacted_system" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="servicenow" label="Impacted system" max_length="40" name="u_impacted_system" type="string">
             <choice>
                 <element label="ServiceNow" sequence="0" value="servicenow"/>
                 <element label="SnapEngage" sequence="1" value="snapengage"/>
@@ -60,12 +61,12 @@
         <element label="Other" max_length="40" name="u_other" type="boolean"/>
         <element label="Other (explain)" max_length="40" name="u_other1" type="boolean"/>
         <element label="Production" max_length="40" name="u_production" type="boolean"/>
-        <element label="Proposed date/Time frame" max_length="40" name="u_proposed_date" type="glide_date"/>
+        <element label="Proposed date/Time frame" mandatory="true" max_length="40" name="u_proposed_date" type="glide_date"/>
         <element label="Required Additional Resources" max_length="40" name="u_required_additional_resources" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Risk Description" max_length="4000" name="u_risk_description1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Risk_Description" max_length="4000" name="u_risk_description3" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Risk Description" max_length="4000" name="u_risk_rescription2" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Role/Title" mandatory="true" max_length="40" name="u_role_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Role/Title" max_length="40" name="u_role_title" type="string"/>
         <element label="Seamless (issue will be resolved - no workflow interruption)" max_length="40" name="u_seamless" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="high" label="Severity" max_length="40" name="u_severity" type="string">
             <choice>
@@ -101,6 +102,7 @@
         </element>
         <element label="New Name-Value Pairs" max_length="4000" name="u_simple_name_values_30" type="simple_name_values"/>
         <element attributes="edge_encryption_enabled=true" label="New String (Full UTF-8)" max_length="255" name="u_string_full_utf8_31" type="string_full_utf8"/>
+        <element label="Submitter name" mandatory="true" max_length="32" name="u_submitter_name" reference="sys_user" type="reference"/>
         <element label="Test" max_length="40" name="u_test" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="u_title" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="u_title1" type="string"/>

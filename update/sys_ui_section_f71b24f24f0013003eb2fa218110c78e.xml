@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>9b68553e4f4013003eb2fa218110c7f5</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>9cfb790b4f4813003eb2fa218110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,27 +19,27 @@
             <element>u_approver1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>1f68553e4f4013003eb2fa218110c7f5</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>14fb790b4f4813003eb2fa218110c766</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_email1</element>
+            <element>u_email</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>9f68553e4f4013003eb2fa218110c7f5</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>94fb790b4f4813003eb2fa218110c766</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>u_title</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>1368553e4f4013003eb2fa218110c7f6</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>18fb790b4f4813003eb2fa218110c766</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,125 +61,83 @@
             <element>u_date</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>9368553e4f4013003eb2fa218110c7f6</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>98fb790b4f4813003eb2fa218110c766</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_additional_notes</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>1768553e4f4013003eb2fa218110c7f6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>9768553e4f4013003eb2fa218110c7f6</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>1cfb790b4f4813003eb2fa218110c766</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approval</element>
+            <element>u_approver2</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>9cfb790b4f4813003eb2fa218110c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_email</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>1b68553e4f4013003eb2fa218110c7f6</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>10fb790b4f4813003eb2fa218110c767</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_approver2</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>9b68553e4f4013003eb2fa218110c7f6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_email1</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>1f68553e4f4013003eb2fa218110c7f6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_title1</element>
-            <position>10</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>9f68553e4f4013003eb2fa218110c7f6</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>90fb790b4f4813003eb2fa218110c767</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_date1</element>
-            <position>11</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>1368553e4f4013003eb2fa218110c7f7</sys_id>
+            <sys_created_on>2018-02-07 15:08:17</sys_created_on>
+            <sys_id>14fb790b4f4813003eb2fa218110c767</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_additional_notes_by</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:54:37</sys_created_on>
-            <sys_id>9368553e4f4013003eb2fa218110c7f7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Change Control Request Form" display_value="Change Control Request Form" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">f71b24f24f0013003eb2fa218110c78e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:54:37</sys_updated_on>
+            <sys_updated_on>2018-02-07 15:08:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
