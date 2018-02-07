@@ -14,7 +14,7 @@
         <element label="New True/False" max_length="40" name="u_boolean_42" type="boolean"/>
         <element label="New True/False" max_length="40" name="u_boolean_43" type="boolean"/>
         <element label="New True/False" max_length="40" name="u_boolean_46" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" label="Brief description of request/change" max_length="160" name="u_brief_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Brief description of request/change" max_length="4000" name="u_brief_description" type="string"/>
         <element label="Contact email" max_length="40" name="u_contact_email" reference="sys_user" type="reference"/>
         <element label="Contact phone" max_length="40" name="u_contact_phone" reference="sys_user" type="reference"/>
         <element label="New Data Structure" max_length="800" name="u_data_structure_20" type="data_structure"/>
