@@ -5,13 +5,13 @@
             <element>u_duration</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:48:46</sys_created_on>
-            <sys_id>6517d9fa4f4013003eb2fa218110c716</sys_id>
+            <sys_created_on>2018-02-07 20:14:14</sys_created_on>
+            <sys_id>12f103034f0c13003eb2fa218110c731</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Workflow/Service Impacts" display_value="Workflow/Service Impacts" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">82c2197a4f4013003eb2fa218110c761</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:48:46</sys_updated_on>
+            <sys_updated_on>2018-02-07 20:14:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_proposed_date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:48:46</sys_created_on>
-            <sys_id>e517d9fa4f4013003eb2fa218110c716</sys_id>
+            <sys_created_on>2018-02-07 20:14:14</sys_created_on>
+            <sys_id>92f103034f0c13003eb2fa218110c731</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Workflow/Service Impacts" display_value="Workflow/Service Impacts" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">82c2197a4f4013003eb2fa218110c761</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:48:46</sys_updated_on>
+            <sys_updated_on>2018-02-07 20:14:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>price</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:48:46</sys_created_on>
-            <sys_id>6917d9fa4f4013003eb2fa218110c716</sys_id>
+            <sys_created_on>2018-02-07 20:14:14</sys_created_on>
+            <sys_id>16f103034f0c13003eb2fa218110c731</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Workflow/Service Impacts" display_value="Workflow/Service Impacts" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">82c2197a4f4013003eb2fa218110c761</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:48:46</sys_updated_on>
+            <sys_updated_on>2018-02-07 20:14:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,27 @@
             <element>u_required_additional_resources</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-06 17:48:46</sys_created_on>
-            <sys_id>e917d9fa4f4013003eb2fa218110c716</sys_id>
+            <sys_created_on>2018-02-07 20:14:14</sys_created_on>
+            <sys_id>96f103034f0c13003eb2fa218110c731</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Workflow/Service Impacts" display_value="Workflow/Service Impacts" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">82c2197a4f4013003eb2fa218110c761</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-06 17:48:46</sys_updated_on>
+            <sys_updated_on>2018-02-07 20:14:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_additional_resources</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 20:14:14</sys_created_on>
+            <sys_id>1af103034f0c13003eb2fa218110c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Workflow/Service Impacts" display_value="Workflow/Service Impacts" name="x_58872_needit_change_request_form" sys_domain="global" view="Default view">82c2197a4f4013003eb2fa218110c761</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 20:14:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
